@@ -1,2 +1,2 @@
 # first_project
-first_projects Kittipon Julapak
+first_projects Kittipon Ju
